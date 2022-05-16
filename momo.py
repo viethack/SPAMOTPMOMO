@@ -1,7 +1,7 @@
 import requests, time
 from time import sleep
 print ("------Information Donate------")
-print ("MBBANK: 126102003")
+print ("MBBANK: 999991497")
 print ("------------------------------")
 print ("")
 print ("â€¢ThĂ´ng bĂ¡o: Tool VTPay Ä‘ang lá»—i admin sáº½ fix vĂ  tĂ¬m thĂªm nhiá»u tool spam")
@@ -16,4 +16,4 @@ while True:
        break
    else:
        print ("SEND OTP MOMO SUCCESS: "+phone)
-       sleep(1)
+       sleep(10)
